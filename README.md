@@ -98,7 +98,7 @@
   
   - **Freelance Web Developer**\
   📆 June 2022 - Present\
-  📍 **Standvast** - Cleveland, OH
+  📍 Working Remotely from Portland, OR 
 
 <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/dropbox.svg" />
 <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/googlesheets.svg" />
