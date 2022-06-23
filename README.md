@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi 👋 I'm Kelsey 
+   👋 Hi I'm Kelsey
 </h1>
 
 <h3 align='center'>
-  A former a Data/Operations Analyst and Project Manager turned Software Developer, 
+  I'm a Software Developer who strives to implement socially conscious practices in the tech sphere.
 </h3>
 
 <p align='center'>
