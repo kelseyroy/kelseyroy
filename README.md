@@ -104,12 +104,12 @@
   📆 September 2020 - March 2022\
   📍 **Standvast** - Cleveland, OH
 
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/3776AB.svg" />
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/4169E1.svg" />
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/F37626.svg" />
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/150458.svg" />
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/013243.svg" />
-  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/F7931E.svg" />
+   <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pandas.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/numPy.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scikit-learn.svg" />
   
 - **Data Analyst & Operations Manager**\
 📆 September 2019 - September 2020\
