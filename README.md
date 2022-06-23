@@ -2,9 +2,9 @@
    Hi 👋 I'm Kelsey
 </h1>
 
-<h3 align='center'>
+<h4 align='center'>
   I'm a Software Developer who strives to implement socially conscious practices in the tech sphere.
-</h3>
+</h4>
 
 <p align='center'>
   
