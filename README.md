@@ -23,5 +23,5 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/kroy94/kroy94"></a> Thank you for stopping by
+  <a href="#"><img src="https://badges.pufler.dev/visits/kroy94"></a> Thank you for stopping by
 </p>
