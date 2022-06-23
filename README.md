@@ -6,12 +6,21 @@
   I'm a Software Developer who strives to implement socially conscious practices in the tech sphere.
 </h4>
 
+<p>
+I’m looking to join an organization that is mission-driven with a diverse, collaborative environment that values different perspectives and embraces open source.
+</p>
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/kelseytroy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
+</p>
+
+
+<p align='center'>
+  📫 Let's connect! <a href='mailto:kelseytylerroy@gmail.com'>kelseytylerroy@gmail.com</a>
 </p>
 
 <h4 align='center'>
@@ -67,10 +76,6 @@
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94&hide=stars&count_private=true&show_icons=true&theme=moltack"></a>
  </p>
-
-<p align='center'>
-  📫 Let's connect! <a href='mailto:kelseytylerroy@gmail.com'>kelseytylerroy@gmail.com</a>
-</p>
 
 <p align='center'>
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkroy941212%2Fhit-counter"></a> Thank you for stopping by
