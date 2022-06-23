@@ -103,16 +103,15 @@
   - **Project Management Consultant**\
   📆 September 2020 - March 2022\
   📍 **Standvast** - Cleveland, OH
-  
 
-  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#3776AB.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#4169E1.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#F37626.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#150458.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#013243.svg" />
+  <img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#F7931E.svg" />
   
 - **Data Analyst & Operations Manager**\
 📆 September 2019 - September 2020\
 📍 **Standvast** - Cleveland, OH
-  
+ 
