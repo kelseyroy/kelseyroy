@@ -15,5 +15,5 @@
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94&hide=stars&count_private=true&show_icons=true&theme=synthwave"></a>
  </p>
