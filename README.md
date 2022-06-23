@@ -15,5 +15,13 @@
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94&hide=stars&count_private=true&show_icons=true&theme=synthwave"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94&hide=stars&count_private=true&show_icons=true&theme=moltack"></a>
  </p>
+
+<p align='center'>
+  📫 Let's connect! <a href='mailto:kelseytylerroy@gmail.com'>kelseytylerroy@gmail.com</a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/kroy94/kroy94"></a> Thank you for stopping by
+</p>
