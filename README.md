@@ -87,7 +87,7 @@
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   
-- 👨‍💻 **Intercode |** Writer, Editor & Full Stack Developer\
+- **Intercode |** Writer, Editor & Full Stack Developer\
   *A collective of voices exploring how the intersection of identity and privilege impacts every facet of the tech industry*\
   📆 April 2022 - Present\
  
@@ -101,7 +101,7 @@
 <img align="right" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
-- 👨‍💻 **Be My Voice |** Full Stack Developer\
+- **Be My Voice |** Full Stack Developer\
   *An EdTech web application that uses Tensorflow.js models to detect and assess American Sign Language signs in real-time*\
   📆 March - April 2022\
   
@@ -114,7 +114,8 @@
 <img align="right" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
-- 👨‍💻 **Reverie Resort|** Full Stack Developer\
+- **Reverie Resort|** Full Stack Developer\
   *An eCommerce platform selling luxury hotel rooms and experiences*\
+  📆 March 2022\
   
   
