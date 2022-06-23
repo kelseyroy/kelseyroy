@@ -6,7 +6,7 @@
   I'm a Software Developer who strives to implement socially conscious practices in the tech sphere.
 </h4>
 
-<p>
+<p align='center'>
 I’m looking to join an organization that is mission-driven with a diverse, collaborative environment that values different perspectives and embraces open source.
 </p>
 
