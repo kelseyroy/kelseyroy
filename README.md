@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  I'm an Apprentice Software Crafter for [8th Light](https://8thlight.com/) based out of Portland, OR.
+  I'm an Apprentice Software Crafter for <a href="https://8thlight.com/">8th Light</a> based out of Portland, OR.
 </h4>
 
 <p align='center'>
