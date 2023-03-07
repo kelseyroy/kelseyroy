@@ -1,14 +1,10 @@
-<h1 align='center'>
+<h2 align='center'>
    Hi 👋 I'm Kelsey
-</h1>
+</h2>
 
 <h4 align='center'>
-  I'm a Software Developer who strives to implement socially conscious practices in the tech sphere.
+  I'm an Apprentice Software Crafter for [8th Light](https://8thlight.com/) based out of Portland, OR.
 </h4>
-
-<p align='center'>
-I’m looking to join an organization that is mission-driven with a diverse, collaborative environment that values different perspectives and embraces open source.
-</p>
 
 <p align='center'>
   
@@ -80,62 +76,3 @@ I’m looking to join an organization that is mission-driven with a diverse, col
 <p align='center'>
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkroy941212%2Fhit-counter"></a> Thank you for stopping by
 </p>
-
-<details>
-  <summary>📃 Resume</summary>
-  
-  ## Projects
-  
-| Name                 | Contribution | Summary                                      | 📆           | Tech Stack                                   |
-| -------------------- | ------------ | -------------------------------------------- | ------------ | -------------------------------------------- |
-| [Intercode](http://intercode.blog/) | Writer, Editor & Full Stack Developer | A collective of voices exploring how the intersection of identity and privilege impacts every facet of the tech industry| April 2022 - Present | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/medium.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/postgresql.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/sequelize.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/nodedotjs.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/react.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/redux.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/express.svg" /> |
-| [Be My Voice](https://be-my-voice.herokuapp.com/) | Full Stack Developer | An EdTech web application that uses Tensorflow.js models to detect and assess American Sign Language signs in real-time| March - April 2022 | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/tensorflow.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/postgresql.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/sequelize.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/nodedotjs.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/react.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/redux.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/express.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/heroku.svg" />|
-| [Reverie Resort](https://reverie-resort.herokuapp.com/) | Full Stack Developer | An eCommerce platform selling luxury hotel rooms and experiences | March 2022 | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/postgresql.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/sequelize.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.2.0/icons/nodedotjs.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/react.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/redux.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/express.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/heroku.svg" />|
-
-## Experience
-
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/webflow.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/wordpress.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/wix.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/figma.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/html5.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/css3.svg" />
-  
-  - **Freelance Web Developer**\
-  📆 June 2022 - Present\
-  📍 Working Remotely from Portland, OR 
-
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/dropbox.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/googlesheets.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/microsoftexcel.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/powerbi.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/slack.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/trello.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/airtable.svg" />
-
-- **Project Management Consultant**\
-  📆 September 2020 - March 2022\
-  📍 **Standvast** - Cleveland, OH
-
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/python.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/postgresql.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/jupyter.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/pandas.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/numpy.svg" />
-<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.2.0/icons/scikitlearn.svg" />
-  
-- **Data Analyst & Operations Manager**\
-📆 September 2019 - September 2020\
-📍 **Standvast** - Cleveland, OH
- 
- ## Education
- 
- - **Web Development**\
-  📆 January 2022 - April 2022\
-  📍 **The Grace Hopper Program at Full stack Academy** - New York, NY
- 
- - **Diplomacy and World Affairs and Economics**\
-  📍 **Occidental College** - Los Angeles, CA
- 
-- **Chinese Language Studies**\
-  📍 **East China Normal University** - Shanghai, CN
