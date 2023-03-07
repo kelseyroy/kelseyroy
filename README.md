@@ -14,11 +14,6 @@
   
 </p>
 
-
-<p align='center'>
-  📫 Let's connect! <a href='mailto:kelseytylerroy@gmail.com'>kelseytylerroy@gmail.com</a>
-</p>
-
 <h4 align='center'>
  💻 Tech Stack and Skills 
 </h4>
