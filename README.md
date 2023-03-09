@@ -65,7 +65,7 @@
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kroy94&hide=stars&count_private=true&show_icons=true&theme=moltack"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kelseyroy&hide=stars&count_private=true&show_icons=true&theme=moltack"></a>
  </p>
 
 <p align='center'>
