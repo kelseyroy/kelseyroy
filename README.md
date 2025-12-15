@@ -24,9 +24,5 @@ JavaScript  |  React  |  Node.js  |  Elixir  |  Ruby  |  C#  |  Python  |  Types
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kelseyroy&hide=stars&count_private=true&show_icons=true&theme=moltack"></a>
- </p>
-
-<p align='center'>
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkroy941212%2Fhit-counter"></a> Thank you for stopping by
 </p>
